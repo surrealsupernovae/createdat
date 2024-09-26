@@ -2,6 +2,6 @@
 name = "create_dat_file"
 version = "0.1.0"
 edition = "2021"
-description = create .dat files with different sizes in your terminal
+description = "create .dat files with different sizes in your terminal"
 license = "MIT OR Apache-2.0"
 [dependencies]
